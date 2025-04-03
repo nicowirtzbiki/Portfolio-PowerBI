@@ -15,9 +15,9 @@ This project was developed for a company specializing in 🌿 plant sales. The g
 
 ## 🛠️ Steps Followed
 
-1. ** Data Aggregation and Cleaning**: Data was processed using **Power Query** to remove inconsistencies, handle missing values, and aggregate relevant fields.
-2. ** Metric Calculation**: Key performance indicators (**KPIs**) were computed to provide meaningful business insights.
-3. ** Visualization & Dashboard Development**: An interactive dashboard was created to allow users to analyze performance by different dimensions such as **country, month, and product type**.
+1. **Data Aggregation and Cleaning**: Data was processed using **Power Query** to remove inconsistencies, handle missing values, and aggregate relevant fields.
+2. **Metric Calculation**: Key performance indicators (**KPIs**) were computed to provide meaningful business insights.
+3. **Visualization & Dashboard Development**: An interactive dashboard was created to allow users to analyze performance by different dimensions such as **country, month, and product type**.
 
 ## 📌 Key Metrics
 
