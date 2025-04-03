@@ -7,15 +7,17 @@ Repository focused on studies using the Power BI tool.
 
 The **Performance Dashboard** is an interactive tool designed to help businesses analyze key financial metrics and make data-driven decisions. Users can dynamically switch between three core metrics: **Gross Profit, Quantity, and Sales**, as well as filter data by year. The dashboard titles and chart labels update accordingly to reflect the selected metric, ensuring clear and intuitive visualizations.
 
+![Demonstração](https://github.com/nicowirtzbiki/Portfolio-PowerBI/raw/main/Performance%20Dashboard/performance-dashboard-video.gif)
+
 ## ❓ Problem Statement
 
 This project was developed for a company specializing in 🌿 plant sales. The goal is to provide insights into business performance by tracking **revenue, profit, and sales quantity** across different dimensions.
 
 ## 🛠️ Steps Followed
 
-1. **🔍 Data Aggregation and Cleaning**: Data was processed using **Power Query** to remove inconsistencies, handle missing values, and aggregate relevant fields.
-2. **📈 Metric Calculation**: Key performance indicators (**KPIs**) were computed to provide meaningful business insights.
-3. **📊 Visualization & Dashboard Development**: An interactive dashboard was created to allow users to analyze performance by different dimensions such as **country, month, and product type**.
+1. ** Data Aggregation and Cleaning**: Data was processed using **Power Query** to remove inconsistencies, handle missing values, and aggregate relevant fields.
+2. ** Metric Calculation**: Key performance indicators (**KPIs**) were computed to provide meaningful business insights.
+3. ** Visualization & Dashboard Development**: An interactive dashboard was created to allow users to analyze performance by different dimensions such as **country, month, and product type**.
 
 ## 📌 Key Metrics
 
