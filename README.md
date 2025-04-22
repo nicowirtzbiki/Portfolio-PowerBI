@@ -3,23 +3,23 @@ Repository focused on studies using the Power BI tool.
 
 # 📊 Performance Dashboard
 
-## 🌟 Overview
+## Overview
 
 The **Performance Dashboard** is an interactive tool designed to help businesses analyze key financial metrics and make data-driven decisions. Users can dynamically switch between three core metrics: **Gross Profit, Quantity, and Sales**, as well as filter data by year. The dashboard titles and chart labels update accordingly to reflect the selected metric, ensuring clear and intuitive visualizations.
 
 ![Demonstração](https://github.com/nicowirtzbiki/Portfolio-PowerBI/raw/main/Performance%20Dashboard/performance-dashboard-video.gif)
 
-## ❓ Problem Statement
+## Problem Statement
 
 This project was developed for a company specializing in 🌿 plant sales. The goal is to provide insights into business performance by tracking **revenue, profit, and sales quantity** across different dimensions.
 
-## 🛠️ Steps Followed
+## Steps Followed
 
 1. **Data Aggregation and Cleaning**: Data was processed using **Power Query** to remove inconsistencies, handle missing values, and aggregate relevant fields.
 2. **Metric Calculation**: Key performance indicators (**KPIs**) were computed to provide meaningful business insights.
 3. **Visualization & Dashboard Development**: An interactive dashboard was created to allow users to analyze performance by different dimensions such as **country, month, and product type**.
 
-## 📌 Key Metrics
+## Key Metrics
 
 The dashboard focuses on the following metrics:
 
@@ -33,7 +33,7 @@ Additionally, we incorporate time-based comparisons using:
 - **⏳ PYTD (Prior Year-to-Date)**: Performance during the same period in the previous year.
 - **📊 GP% (Gross Profit Percentage)**: The ratio of Gross Profit to Sales, indicating profitability.
 
-## 📊 Visualizations & Insights
+## Visualizations & Insights
 
 Each visualization in the dashboard offers a unique perspective on business performance:
 
@@ -58,7 +58,7 @@ Each visualization in the dashboard offers a unique perspective on business perf
 - The X-axis shows the selected metric (**YTD**), and the Y-axis represents **GP%**.
 - Helps identify high-value accounts and assess profitability distribution across customers.
 
-## 🚀 Business Impact
+## Business Impact
 
 - **🎯 Strategic Decision-Making**: The dashboard enables managers to focus on high-impact areas and optimize sales strategies.
 - **📊 Performance Monitoring**: Provides a clear comparison of current vs. past performance, helping businesses identify growth opportunities and areas for improvement.
